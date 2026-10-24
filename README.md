@@ -1,3 +1,4 @@
+![App Demo](images/GIT_1.gif)
 ![App Demo](images/Best.gif)
 ![App Demo](images/Great.gif)
 ![App Demo](images/abstract_loop_5MB.gif)
