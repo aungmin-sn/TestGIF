@@ -1,2 +1,2 @@
 
-![App Demo](images/Best.gif)
+![App Demo](images/Great.gif)
